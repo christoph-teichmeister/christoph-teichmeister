@@ -7,7 +7,7 @@ Web Developer / Software Engineer
 I work on anything web-related since 2019. I love to work with Django. Currently focussing on PWAs.
 
 * 🌍  I'm based in Cologne, Germany
-* 🖥️  See my portfolio at [github pages](http://https://christoph-teichmeister.github.io/github-page/)
+* 🖥️  See my portfolio at [github pages](https://christoph-teichmeister.github.io/github-page/)
 * ✉️  You can contact me at [christoph.teichmeister@gmail.com](mailto:christoph.teichmeister@gmail.com)
 * 🚀  I'm currently working on [yamsa](http://yamsa.onrender.com/welcome/)
 * 🤝  I'm open to collaborating on anything Django
